@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+onnx/
+*.safetensors
+*.wav
+*.mp3
+.venv/
